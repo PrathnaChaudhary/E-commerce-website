@@ -42,12 +42,12 @@ E-commerce-website/
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 Contact
-For any questions or feedback, please contact prathnachaudhary@egmail.com.
+For any questions or feedback, please contact prathnachaudhary@gmail.com.
 
 
 License
 This project is licensed under the MIT License.
 
 Contact
-For any questions or feedback, please contact prathnachaudhary@example.com.
+For any questions or feedback, please contact prathnachaudhary@egmail.com.
 
